@@ -64,15 +64,6 @@ Deep learning is increasingly used in time series prediction, with **Long Short-
    ```
 4. The trained model will be saved in `.h5` format.
 
-## 📂 Directory Structure
-```
-LSTM-Model-Comparison/
-│── data/                                # Dataset folder
-│── models/                              # Folder for saved models
-│── LSTM_Times_series_Prediction.ipynb   # Main script for model training and evaluation
-│── README.md                            # Project documentation
-```
-
 ## 📌 Conclusion
 - The **Stacked LSTM** model performed the best in time series forecasting.
 - The choice of LSTM architecture significantly impacts prediction accuracy.
